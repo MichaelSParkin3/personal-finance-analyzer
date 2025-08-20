@@ -3,6 +3,9 @@
 ## 🎯 Project Overview
 This is a learning project where I practiced data science skills using a personal finance dataset provided by Krumpy. The goal was to learn and demonstrate data cleaning, organization, visualization, and analysis techniques using Python and various data science tools.
 
+## （づ￣3￣）づ╭❤️～ Personal Note
+To be honest, I thought this project would be incredibly boring at first, on paper it sounded like it would be. But the visualization and analysis parts are pretty interesting. Learning how these skills can be used to detect fraud and stuff also seem very cool and appealing to me.
+
 ## 📚 What I Learned
 Through this project, I gained hands-on experience with:
 - 🧹 **Data Cleaning**: Handling missing values, standardizing text data, and data type conversions
